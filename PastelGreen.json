@@ -1,78 +1,35 @@
 {
-  "name": "Midnight Mint AMOLED",
-  "description": "Ultra dark AMOLED black theme with premium mint accents",
+  "name": "Midnight Pine AMOLED",
+  "description": "Ultra-dark AMOLED theme with soft pine accents",
   "version": "2",
   "authors": [
     {
-      "name": "sparxz",
-      "id": "629700611994157057"
+      "name": "sparkxz"
     }
   ],
-  "semanticColors": {
-    "CHAT_BACKGROUND": ["#000000"],
-    "BACKGROUND_ACCENT": ["#0A0A0A"],
 
-    "CHANNELS_DEFAULT": ["#7FFFD4"],
-    "CHANNEL_ICON": ["#7FFFD4"],
+  "colors": {
+    "background": "#000000",
+    "backgroundSecondary": "#050505",
+    "backgroundTertiary": "#0A0A0A",
 
-    "HEADER_PRIMARY": ["#FFFFFF"],
-    "HEADER_SECONDARY": ["#C7FFF0"],
+    "accent": "#6FA27A",
+    "accentHover": "#7BA686",
+    "accentPressed": "#5E8F69",
 
-    "INTERACTIVE_ACTIVE": ["#7FFFD4"],
-    "INTERACTIVE_HOVER": ["#98FFE0"],
-    "INTERACTIVE_MUTED": ["#5EDBB7"],
-    "INTERACTIVE_NORMAL": ["#E8FFF8"],
+    "link": "#8EB89A",
+    "mention": "#6FA27A",
+    "mentionBackground": "#112017",
 
-    "MENTION_FOREGROUND": ["#7FFFD4"],
-    "TEXT_LINK": ["#7FFFD4"],
+    "button": "#6FA27A",
+    "buttonHover": "#7BA686",
 
-    "TEXT_MUTED": ["#9ADCCB"],
-    "TEXT_NORMAL": ["#E8FFF8"],
-    "TEXT_PRIMARY": ["#FFFFFF"],
-    "TEXT_SECONDARY": ["#C7FFF0"]
-  },
+    "success": "#7CBF8A",
+    "warning": "#C9A96A",
+    "danger": "#B86A6A",
 
-  "rawColors": {
-    "BRAND_200": "#C7FFF0",
-    "BRAND_260": "#A7FFE8",
-    "BRAND_300": "#98FFE0",
-    "BRAND_330": "#7FFFD4",
-    "BRAND_345": "#6AF0C5",
-    "BRAND_360": "#5EDBB7",
-
-    "BRAND_400": "#1A1A1A",
-    "BRAND_430": "#141414",
-    "BRAND_460": "#101010",
-    "BRAND_500": "#0D0D0D",
-
-    "BRAND_530": "#090909",
-    "BRAND_560": "#060606",
-    "BRAND_600": "#030303",
-    "BRAND_630": "#020202",
-    "BRAND_660": "#010101",
-    "BRAND_700": "#000000",
-
-    "PLUM_3": "#050505",
-    "PLUM_15": "#0A0A0A",
-
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#F0FFF9",
-    "PRIMARY_300": "#D8FFF3",
-    "PRIMARY_360": "#BFFFF0",
-    "PRIMARY_400": "#98FFE0",
-    "PRIMARY_500": "#7FFFD4",
-
-    "WHITE_500": "#FFFFFF",
-    "WHITE_630": "#D9FFF5",
-
-    "ROLE_DEFAULT": "#7FFFD4"
-  },
-
-  "plus": {
-    "version": "0",
-    "iconPack": "rosiecord-plumpy",
-    "mentionLineColor": "#7FFFD4"
-  },
-
-  "spec": 2
+    "textPrimary": "#F2F5F2",
+    "textSecondary": "#B8C4B8",
+    "textMuted": "#7F8A7F"
+  }
 }
