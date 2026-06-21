@@ -1,0 +1,57 @@
+{
+  "name": "Forest Pine AMOLED",
+  "description": "Deep forest pine and leaf green accents on a pitch-black AMOLED background.",
+  "authors": [
+    {
+      "name": "sparkxz",
+      "id": "0"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#050B08"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A1410"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1A3A2B"],
+    "BACKGROUND_MESSAGE_HOVER": ["#0A1410"],
+    "CHAT_BACKGROUND": ["#000000"],
+
+    "HEADER_PRIMARY": ["#E6F2EC"],
+    "HEADER_SECONDARY": ["#A3C2B2"],
+
+    "TEXT_NORMAL": ["#E0EAE5"],
+    "TEXT_MUTED": ["#6B8A7A"],
+    "TEXT_LINK": ["#6FA27A"],
+
+    "BRAND_500": ["#6FA27A"],
+    "BRAND_560": ["#5E8F69"],
+    "BRAND_600": ["#4E8C6F"],
+
+    "BUTTON_PRIMARY_BACKGROUND": ["#2D5A43"],
+    "BUTTON_PRIMARY_BACKGROUND_HOVER": ["#366F52"],
+
+    "CONTROL_BRAND_FOREGROUND": ["#6FA27A"],
+
+    "INTERACTIVE_NORMAL": ["#A3C2B2"],
+    "INTERACTIVE_HOVER": ["#E6F2EC"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#3D5248"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#E6F2EC",
+    "PRIMARY_200": "#C7D8CF",
+    "PRIMARY_300": "#A3C2B2",
+    "PRIMARY_400": "#6B8A7A",
+    "PRIMARY_500": "#3D5248",
+    "PRIMARY_600": "#0A1410",
+    "PRIMARY_700": "#050B08",
+    "PRIMARY_800": "#000000",
+
+    "BRAND_100": "#B7D6C3",
+    "BRAND_200": "#9FC5AF",
+    "BRAND_300": "#86B398",
+    "BRAND_400": "#6FA27A",
+    "BRAND_500": "#5E8F69",
+    "BRAND_600": "#4E8C6F"
+  }
+}
