@@ -1,35 +1,40 @@
 {
-  "name": "Midnight Pine AMOLED",
-  "description": "Ultra-dark AMOLED theme with soft pine accents",
-  "version": "2",
+  "name": "Forest Pine AMOLED",
+  "description": "Deep forest pine and leaf green accents on a pitch-black AMOLED background.",
   "authors": [
     {
-      "name": "sparkxz"
+      "name": "sparxz",
+      "id": "0"
     }
   ],
-
-  "colors": {
-    "background": "#000000",
-    "backgroundSecondary": "#050505",
-    "backgroundTertiary": "#0A0A0A",
-
-    "accent": "#6FA27A",
-    "accentHover": "#7BA686",
-    "accentPressed": "#5E8F69",
-
-    "link": "#8EB89A",
-    "mention": "#6FA27A",
-    "mentionBackground": "#112017",
-
-    "button": "#6FA27A",
-    "buttonHover": "#7BA686",
-
-    "success": "#7CBF8A",
-    "warning": "#C9A96A",
-    "danger": "#B86A6A",
-
-    "textPrimary": "#F2F5F2",
-    "textSecondary": "#B8C4B8",
-    "textMuted": "#7F8A7F"
+  "spec": 3,
+  "semanticColors": {
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#050B08"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A1410"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1A3A2B"],
+    "BACKGROUND_MESSAGE_HOVER": ["#0A1410"],
+    "CHAT_BACKGROUND": ["#000000"],
+    "ACTIVITY_CARD_BACKGROUND": ["#050B08"],
+    "HEADER_PRIMARY": ["#E6F2EC"],
+    "HEADER_SECONDARY": ["#A3C2B2"],
+    "TEXT_NORMAL": ["#E0EAE5"],
+    "TEXT_MUTED": ["#6B8A7A"],
+    "TEXT_LINK": ["#4E8C6F"],
+    "BRAND_EXPERIMENT": ["#2D5A43"],
+    "BRAND_EXPERIMENT_500": ["#2D5A43"],
+    "BUTTON_PRIMARY_BACKGROUND": ["#2D5A43"],
+    "BUTTON_PRIMARY_HOVER_BACKGROUND": ["#366F52"],
+    "CONTROL_BRAND_FOREGROUND": ["#4E8C6F"],
+    "INTERACTIVE_NORMAL": ["#A3C2B2"],
+    "INTERACTIVE_HOVER": ["#E6F2EC"],
+    "INTERACTIVE_ACTIVE": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#3D5248"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+    "BRAND_500": "#2D5A43"
   }
 }
