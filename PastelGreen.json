@@ -1,0 +1,64 @@
+{
+  "name": "Pastel Green",
+  "description": "A sleek clean green theme designed for kettu",
+  "version": "2",
+  "authors": [
+    {
+      "name": "Fizz",
+      "id": "629700611994157057"
+    }
+  ],
+  "semanticColors": {
+    "CHAT_BACKGROUND": ["#0f0f10"],
+    "BACKGROUND_ACCENT": ["#204D3C"],
+    "CHANNELS_DEFAULT": ["#9CC5B1"],
+    "CHANNEL_ICON": ["#9CC5B1"],
+    "HEADER_PRIMARY": ["#D4E8DE"],
+    "HEADER_SECONDARY": ["#9CC5B1"],
+    "INTERACTIVE_ACTIVE": ["#204D3C"],
+    "INTERACTIVE_HOVER": ["#2E6B55"],
+    "INTERACTIVE_MUTED": ["#9CC5B1"],
+    "INTERACTIVE_NORMAL": ["#D4E8DE"],
+    "MENTION_FOREGROUND": ["#204D3C"],
+    "TEXT_LINK": ["#204D3C"],
+    "TEXT_MUTED": ["#9CC5B1"],
+    "TEXT_NORMAL": ["#D4E8DE"],
+    "TEXT_PRIMARY": ["#E7F4EE"],
+    "TEXT_SECONDARY": ["#B8D7C8"]
+  },
+  "rawColors": {
+    "BRAND_200": "#204D3C",
+    "BRAND_260": "#204D3C",
+    "BRAND_300": "#204D3C",
+    "BRAND_330": "#204D3C",
+    "BRAND_345": "#204D3C",
+    "BRAND_360": "#204D3C",
+    "BRAND_400": "#204D3C",
+    "BRAND_430": "#204D3C",
+    "BRAND_460": "#204D3C",
+    "BRAND_500": "#204D3C",
+    "BRAND_530": "#204D3C",
+    "BRAND_560": "#2E6B55",
+    "BRAND_600": "#204D3C",
+    "BRAND_630": "#204D3C",
+    "BRAND_660": "#204D3C",
+    "BRAND_700": "#204D3C",
+    "PLUM_3": "#204D3C",
+    "PLUM_15": "#204D3C",
+    "PRIMARY_300": "#204D3C",
+    "PRIMARY_360": "#204D3C",
+    "PRIMARY_400": "#2E6B55",
+    "PRIMARY_500": "#204D3C",
+    "PRIMARY_100": "#9CC5B1",
+    "PRIMARY_200": "#D4E8DE",
+    "WHITE_500": "#D4E8DE",
+    "WHITE_630": "#9CC5B1",
+    "ROLE_DEFAULT": "#9CC5B1"
+  },
+  "plus": {
+    "version": "0",
+    "iconPack": "rosiecord-plumpy",
+    "mentionLineColor": "#2E6B55"
+  },
+  "spec": 2
+}
